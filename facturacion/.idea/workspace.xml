@@ -4,45 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0baf55b0-2853-4138-8405-eca213bdf615" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tuempresa/facturacion/modelo/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tuempresa/facturacion/modelo/Producto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tuempresa/facturacion/run/.algo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tuempresa/facturacion/run/facturacion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/i18n/facturacion-labels_es.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/i18n/facturacion-messages_es.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/naviox-users.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/naviox.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/xava.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/aplicacion.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/controladores.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/annotation-type-default.dtd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/aplicacion.dtd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/application.dtd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/controladores.dtd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/controllers.dtd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/conversores.dtd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/converters.dtd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/default-size.dtd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/editores.dtd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/editors.dtd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/longitud-defecto.dtd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/stereotype-type-default.dtd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/tabs-default-values.dtd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/tipo-anotacion-defecto.dtd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/tipo-estereotipo-defecto.dtd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/validadores.dtd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/validators.dtd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/valores-defecto-tabs.dtd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/editores.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/META-INF/context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/xava/style/custom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/xava-junit.properties" afterDir="false" />
+    <list default="true" id="0baf55b0-2853-4138-8405-eca213bdf615" name="Changes" comment="Leccion_1_completa">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tuempresa/facturacion/modelo/Categoria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tuempresa/facturacion/modelo/Direccion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tuempresa/facturacion/modelo/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tuempresa/facturacion/modelo/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tuempresa/facturacion/modelo/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tuempresa/facturacion/modelo/Producto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,11 +105,24 @@
       <option name="presentableId" value="Default" />
       <updated>1761867747838</updated>
       <workItem from="1761867749250" duration="291000" />
-      <workItem from="1761868055247" duration="847000" />
+      <workItem from="1761868055247" duration="2514000" />
     </task>
+    <task id="LOCAL-00001" summary="Leccion_1_completa">
+      <option name="closed" value="true" />
+      <created>1761869158453</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1761869158453</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Leccion_1_completa" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leccion_1_completa" />
   </component>
 </project>
